@@ -2,7 +2,7 @@
   "profiles": {
     "grpc.cli": {
       "commandName": "Project",
-      "commandLineArgs": "dump  https://localhost:5001 mssql.adapter.demo -o ./protos"
+      "commandLineArgs": "dump  https://localhost:5001 mssql.adapter.DalServiceN -o ./protosN"
     }
   }
 }
